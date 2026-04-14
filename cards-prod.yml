@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to prod CARDS Microservice API"
+  message: "Welcome to PRODUCTION CARDS Microservice API updated"
   contactDetails:
     name: "Babu - Product Owner"
     email: "test@gmail.com"
