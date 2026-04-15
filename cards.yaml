@@ -3,7 +3,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to local CARDS Microservice API"
+  message: "Welcome to local CARDS Microservice API - docker"
   contactDetails:
     name: "Babu - Developer"
     email: "test@gmail.com"
