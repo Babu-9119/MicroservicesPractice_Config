@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to lets build bank Production Environment"
+  message: "Welcome to lets build bank Production Environment - docker apis"
   contactDetails:
     name: "Babu - Product Owner"
     email: "test@gmail.com"
