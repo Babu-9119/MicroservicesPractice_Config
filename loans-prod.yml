@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to PRODUCTION loans Microservice API - updated"
+  message: "Welcome to PRODUCTION loans Microservice API - docker apis"
   contactDetails:
     name: "Babu - Product Owner"
     email: "test@gmail.com"
